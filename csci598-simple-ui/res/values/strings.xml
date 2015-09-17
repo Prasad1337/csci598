@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CSCI598SimpleUI</string>
+    <string name="action_settings">Settings</string>
+    <string name="pepsi">Pepsi</string>
+    <string name="coke">Coke</string>
+    <string name="def1">Make your choice!</string>
+
+</resources>

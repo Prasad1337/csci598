@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EventReceiver</string>
+    <string name="action_settings">Settings</string>
+    <string name="def1">Drag your finger on the screen for an event!</string>
+    <string name="event">MotionEvent.ACTION_MOVE event invoked!</string>
+
+</resources>

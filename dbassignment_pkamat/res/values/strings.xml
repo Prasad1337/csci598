@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DBAssignment_pkamat</string>
+    <string name="action_settings">Settings</string>
+    <string name="def1"/>
+    <string name="fetch1">Fetch</string>
+    <string name="append1">Append</string>
+
+</resources>

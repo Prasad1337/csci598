@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">FileAssignment_pkamat</string>
+    <string name="empty"/>
+    <string name="read1">Read</string>
+    <string name="append1">Append</string>
+    <string name="replace1">Replace</string>
+
+</resources>
